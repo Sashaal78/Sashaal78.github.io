@@ -1,8 +1,8 @@
 body{background-color: BurlyWood}
-h1{color: black; margin: 45}
+h1{color: black; margin: 1em}
 img{margin: 0px auto 0px auto; display: block}
 img{border: 10px dashed; border-color: brown}
-ol{margin-left: auto; margin-righr: auto; width: 25em}
+ol{margin-left: auto; margin-right: auto; width: 20em; font-size: 24px}
 #orienantion{color: black}
 #character{color: black}
 #worldview{color: black}
